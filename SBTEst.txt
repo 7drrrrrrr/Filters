@@ -1,0 +1,22 @@
+# Blocklist for use with hosts files to block ads, trackers, and other nasty things
+#
+# For more information about this list, see: https://pgl.yoyo.org/adservers/
+# ----
+# last updated:   Thu, 20 Feb 2020 17:00:41 GMT
+# entries:        3283
+# format:         hosts (hosts -- in hosts file format)
+# credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
+# this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=1
+# Patreon:        https://patreon.com/blocklist
+# other formats:  https://pgl.yoyo.org/adservers/formats.php
+# policy:         https://pgl.yoyo.org/adservers/policy.php
+#
+# start date:    Wed, 15 Mar 2000 00:00:00
+
+
+! 2/18/2020 https://spankbang.com
+||tb3.sb-cd.com/w:*/5/4/5477037-t6-s/emily18+alone+at+the+pool.jpg$image
+||tb5.sb-cd.com/w:*/5/6/5612659-t6-s/emily18.jpg$image
+||tb5.sb-cd.com/w:*/9/4/944289-t6-s/emily+18+shower.jpg$image
+||tb4.sb-cd.com/w:*/5/3/53333-t6-s/emily18+com+2011.jpg$image
+||tb3.sb-cd.com/w:*/5/0/5070957-t6-s/emily+18.jpg$image
